@@ -1,5 +1,5 @@
 // A grouped set of values (array) where you know how many values are in there
-// and their data types
+// and their data type
 type Point = [number, number, string]
 let _point: Point = [10, 5, "Ian"];
 
