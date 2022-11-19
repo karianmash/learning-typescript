@@ -2,7 +2,7 @@
 // functions & type aliases that don't need to explicitly define the types that
 // they use.
 
-// Generics makes it easier to write reusable code.
+// Generics makes it easier to write reusable code
 
 
 
